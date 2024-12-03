@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "AplicacionSIIAU",
+    "slug": "AplicacionSIIAU",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/log_udg.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/log_udg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/log_udg.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
